@@ -71,4 +71,13 @@ th {
     background-color: #d9d9d9;
 }
 
+/* Make all links red by default */
+a {
+    color: #870101;
+}
+
+/* Make links in ordered lists blue */
+ol a {
+    color: blue;
+}
 
