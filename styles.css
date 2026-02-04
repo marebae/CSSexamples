@@ -47,7 +47,7 @@ section {
 
 /* Blue highlighted paragraphs */
 .blue {
-    background-color: #0b1fa6;
+    background-color: #0e0254;
     color: white;
     padding: 18px;
     margin: 20px 0;
@@ -87,6 +87,7 @@ a {
 ol a {
     color: blue;
 }
+
 
 
 
