@@ -41,7 +41,7 @@ section {
     padding: 20px;
     margin: 15px 20px;
     background-color: #ffffff;
-    width: 70%;
+    width: 60%;
 }
 
 /* Blue highlighted paragraphs */
@@ -86,6 +86,7 @@ a {
 ol a {
     color: blue;
 }
+
 
 
 
