@@ -3,7 +3,7 @@ body {
     padding: 30px;
     box-sizing: border-box;
     background-color: #bfe3ee;
-    max-width: 1200px;
+    
 }
 
 /* Title */
@@ -86,6 +86,7 @@ a {
 ol a {
     color: blue;
 }
+
 
 
 
