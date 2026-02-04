@@ -38,8 +38,8 @@ section {
 
 /* Green boxed paragraph */
 #paragraph2 {
-    border: 5px solid #1a7f00;
-    padding: 10px;
+    border: 7px solid #1a7f00;
+    padding: 40px;
     margin: 15px 20px;
     background-color: #ffffff;
     width: 60%;
@@ -87,6 +87,7 @@ a {
 ol a {
     color: blue;
 }
+
 
 
 
