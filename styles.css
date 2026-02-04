@@ -72,16 +72,21 @@ th {
 }
 
 /* Make all links red by default */
-a {
-    color: red !important;
+a,
+a:visited,
+a:hover,
+a:active {
+    color: red;
 }
 
 /* Make links in ordered lists blue */
-ol a {
-    color: blue !important;
-}
+ol a,
+ol a:visited,
+ol a:hover,
+ol a:active {
     color: blue;
 }
+
 
 
 
