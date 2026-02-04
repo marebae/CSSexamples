@@ -72,13 +72,14 @@ th {
 }
 /* Make all links red by default */
 a {
-    color: red;
+    color: #870101;
 }
 
 /* Make links in ordered lists blue */
 ol a {
     color: blue;
 }
+
 
 
 
