@@ -69,6 +69,7 @@ td {
 
 th {
     background-color: #d9d9d9;
+    text-align: center;
 }
 /* Make link red */
 a {
@@ -79,6 +80,7 @@ a {
 ol a {
     color: blue;
 }
+
 
 
 
